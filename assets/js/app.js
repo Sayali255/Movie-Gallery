@@ -68,7 +68,7 @@ let cl = console.log;
 					<div class="card-body">
 						<h3> ${ele.title} </h3>
 						<figure>
-							<img src="${ele.imgUrl}" alt="${ele.title}" title="${ele.title}" class="img-fluid">
+							<img src="${ele.imgUrl}" alt="${ele.title}" title="${ele.title}" class="img-fluid movieImg">
 						</figure>
 						<figcaption>
 							<p> ${ele.rating}/5 </p>
